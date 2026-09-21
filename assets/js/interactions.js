@@ -392,8 +392,8 @@
     "Pós — Ethical Hacking & Cibersegurança": "Postgrad — Ethical Hacking & Cybersecurity",
     "Faculdade FACINT · 2026 · em andamento": "FACINT · 2026 · in progress",
     "Técnico em Infraestrutura de TI": "IT Infrastructure Technician",
-    "Inglês — CEFR A2": "English — CEFR A2",
-    "UniEVANGÉLICA Language Center · cursando": "UniEVANGÉLICA Language Center · in progress",
+    "Proficiência: Intermediário 1 (CEFR/B1)": "Proficiency: Intermediate 1 (CEFR/B1)",
+    "Foco Atual: Desenvolvimento de habilidades de comunicação em inglês, com ênfase em leitura, escrita, compreensão auditiva e fala": "Current Focus: Developing English communication skills, with an emphasis on reading, writing, listening comprehension, and speaking",
     "Containers e versionamento": "Containers and versioning",
     "Linguagens & Frameworks": "Languages & Frameworks",
     // contact
