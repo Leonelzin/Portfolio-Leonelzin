@@ -381,9 +381,11 @@
     "Ver todos os repositórios": "View all repositories",
     // education
     "Bacharelado em Engenharia de Software": "Bachelor's in Software Engineering",
+    "Universidade Evangélica de Goiás · Anápolis - GO": "Evangelical University of Goiás · Anápolis - GO",
     "Base sólida em engenharia de software, algoritmos, banco de dados e qualidade de software.":
       "Solid foundation in software engineering, algorithms, databases and software quality.",
     "Mestrado Profissional em Engenharia de Software": "Professional Master's in Software Engineering",
+    "Universidade Federal do Pampa (UNIPAMPA) · Alegrete - RS": "Federal University of Pampa (UNIPAMPA) · Alegrete - RS",
     "Pesquisa aplicada em engenharia de software, qualidade e automação de testes.":
       "Applied research in software engineering, quality and test automation.",
     "Especialização em qualidade de software, automação de testes e validação de sistemas.":
