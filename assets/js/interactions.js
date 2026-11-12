@@ -386,6 +386,10 @@
     "Mestrado Profissional em Engenharia de Software": "Professional Master's in Software Engineering",
     "Pesquisa aplicada em engenharia de software, qualidade e automação de testes.":
       "Applied research in software engineering, quality and test automation.",
+    "Especialização em qualidade de software, automação de testes e validação de sistemas.":
+      "Specialization in software quality, test automation and systems validation.",
+    "Especialização em segurança ofensiva, pentest, análise de vulnerabilidades e defesa cibernética.":
+      "Specialization in offensive security, pentest, vulnerability analysis and cyber defense.",
     "Certificações e Cursos": "Certifications & Courses",
     "Pós — QA & Testes de Software": "Postgrad — QA & Software Testing",
     "Faculdade FACINT · 2025": "FACINT · 2025",
