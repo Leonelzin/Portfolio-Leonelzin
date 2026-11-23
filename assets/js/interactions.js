@@ -336,8 +336,8 @@
     "Ver Projetos": "View Projects",
     // about
     "Sobre.system": "About.system",
-    "Sou QA / Software Tester com mais de 4 anos garantindo a qualidade de sistemas web e plataformas embarcadas — do plano de teste à automação ponta a ponta. Atualmente me especializando em segurança defensiva e ethical hacking.":
-      "I'm a QA / Software Tester with 4+ years ensuring the quality of web systems and embedded platforms — from test plans to end-to-end automation. Currently specializing in defensive security and ethical hacking.",
+    "Sou QA / Software Tester com mais de 4 anos de experiência garantindo a qualidade de sistemas web e plataformas embarcadas, atuando desde o planejamento e execução de testes até a automação ponta a ponta.<br><br>Especialista em QA e Testes de Software + Ethical Hacking e Cybersecurity, ampliando minha atuação em segurança de aplicações, testes de vulnerabilidade e qualidade de software.":
+      "I am a QA / Software Tester with over 4 years of experience ensuring the quality of web systems and embedded platforms, working across all stages of testing, from planning and execution to end-to-end automation.<br><br>Specialized in QA and Software Testing, as well as Ethical Hacking and Cybersecurity, expanding my expertise in application security, vulnerability testing, and software quality.",
     "OPERADOR": "OPERATOR", "FUNÇÃO": "ROLE", "LOCALIZAÇÃO": "LOCATION",
     "EXPERIÊNCIA": "EXPERIENCE", "ANOS": "YEARS", "BUGS BARRADOS": "BUGS BLOCKED",
     // skills
