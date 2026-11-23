@@ -399,7 +399,7 @@
     "Faculdade FACINT · 2026 · em andamento": "FACINT · 2026 · in progress",
     "Automação — Playwright & Cypress": "Automation — Playwright & Cypress",
     "Testes de API & Performance": "API & Performance Testing",
-    "Curso de Testes de API Rest": "REST API Testing Course",
+    "Testes de API Rest": "REST API Testing",
     "Júlio de Lima Consultoria · 2022": "Júlio de Lima Consultancy · 2022",
     "Automação de Testes com Robot Framework — Avançado": "Advanced Robot Framework Test Automation",
     "Udemy · 2025": "Udemy · 2025",
